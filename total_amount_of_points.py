@@ -9,4 +9,4 @@ def points(games):
         elif first_score == second_score:
             counter +=1
     return(counter)
-	pass
+	
